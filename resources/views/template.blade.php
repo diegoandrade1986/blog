@@ -87,7 +87,7 @@
 
 <!-- Main Content -->
 <div class="container">
-    @yield('content');
+    @yield('content')
 </div>
 
 <hr>
@@ -113,8 +113,8 @@
                                     <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
                                 </span>
                         </a>
-                    </li>
-                    <li>--}}
+                    </li>--}}
+                    <li>
                         <a href="https://github.com/diegoandrade1986" target="_blank">
                             <span class="fa-stack fa-lg">
                                 <i class="fa fa-circle fa-stack-2x"></i>

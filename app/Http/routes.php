@@ -17,3 +17,4 @@ Route::get('/', function () {
 */
 
 Route::get('/','HomeController@visualizar');
+Route::get('/{id}','HomeController@findPost');
